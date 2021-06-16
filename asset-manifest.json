@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/webpage/static/css/main.96743911.chunk.css",
-    "main.js": "/webpage/static/js/main.435e2443.chunk.js",
-    "main.js.map": "/webpage/static/js/main.435e2443.chunk.js.map",
-    "runtime-main.js": "/webpage/static/js/runtime-main.e9561ade.js",
-    "runtime-main.js.map": "/webpage/static/js/runtime-main.e9561ade.js.map",
-    "static/js/2.a557394e.chunk.js": "/webpage/static/js/2.a557394e.chunk.js",
-    "static/js/2.a557394e.chunk.js.map": "/webpage/static/js/2.a557394e.chunk.js.map",
-    "static/js/3.c89a56d3.chunk.js": "/webpage/static/js/3.c89a56d3.chunk.js",
-    "static/js/3.c89a56d3.chunk.js.map": "/webpage/static/js/3.c89a56d3.chunk.js.map",
+    "main.css": "/webpage/static/css/main.3cf9c0c7.chunk.css",
+    "main.js": "/webpage/static/js/main.5e53cd75.chunk.js",
+    "main.js.map": "/webpage/static/js/main.5e53cd75.chunk.js.map",
+    "runtime-main.js": "/webpage/static/js/runtime-main.a386c48a.js",
+    "runtime-main.js.map": "/webpage/static/js/runtime-main.a386c48a.js.map",
+    "static/js/2.5b8486bf.chunk.js": "/webpage/static/js/2.5b8486bf.chunk.js",
+    "static/js/2.5b8486bf.chunk.js.map": "/webpage/static/js/2.5b8486bf.chunk.js.map",
+    "static/js/3.8234e750.chunk.js": "/webpage/static/js/3.8234e750.chunk.js",
+    "static/js/3.8234e750.chunk.js.map": "/webpage/static/js/3.8234e750.chunk.js.map",
     "index.html": "/webpage/index.html",
-    "static/css/main.96743911.chunk.css.map": "/webpage/static/css/main.96743911.chunk.css.map",
-    "static/js/2.a557394e.chunk.js.LICENSE.txt": "/webpage/static/js/2.a557394e.chunk.js.LICENSE.txt",
-    "static/media/ConstructGIF.f77e2f26.gif": "/webpage/static/media/ConstructGIF.f77e2f26.gif",
-    "static/media/FightGIF.62acf325.gif": "/webpage/static/media/FightGIF.62acf325.gif",
-    "static/media/SmithGIF.9ca93e47.gif": "/webpage/static/media/SmithGIF.9ca93e47.gif",
-    "static/media/SwordPicture.899b1196.png": "/webpage/static/media/SwordPicture.899b1196.png",
+    "static/css/main.3cf9c0c7.chunk.css.map": "/webpage/static/css/main.3cf9c0c7.chunk.css.map",
+    "static/js/2.5b8486bf.chunk.js.LICENSE.txt": "/webpage/static/js/2.5b8486bf.chunk.js.LICENSE.txt",
+    "static/media/ConstructGIF.d174995e.gif": "/webpage/static/media/ConstructGIF.d174995e.gif",
+    "static/media/FightGIF.e84cc2e9.gif": "/webpage/static/media/FightGIF.e84cc2e9.gif",
+    "static/media/SmithGIF.08a03091.gif": "/webpage/static/media/SmithGIF.08a03091.gif",
+    "static/media/SwordPicture.fc281c17.png": "/webpage/static/media/SwordPicture.fc281c17.png",
     "static/media/logo.6ce24c58.svg": "/webpage/static/media/logo.6ce24c58.svg",
-    "static/media/logostudioblanc.49f834d0.png": "/webpage/static/media/logostudioblanc.49f834d0.png",
-    "static/media/team.b14482a1.jpg": "/webpage/static/media/team.b14482a1.jpg"
+    "static/media/logostudioblanc.a53a5830.png": "/webpage/static/media/logostudioblanc.a53a5830.png",
+    "static/media/team.3c4742d6.jpg": "/webpage/static/media/team.3c4742d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9561ade.js",
-    "static/js/2.a557394e.chunk.js",
-    "static/css/main.96743911.chunk.css",
-    "static/js/main.435e2443.chunk.js"
+    "static/js/runtime-main.a386c48a.js",
+    "static/js/2.5b8486bf.chunk.js",
+    "static/css/main.3cf9c0c7.chunk.css",
+    "static/js/main.5e53cd75.chunk.js"
   ]
 }

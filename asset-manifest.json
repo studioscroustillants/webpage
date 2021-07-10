@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webpage/static/css/main.3cf9c0c7.chunk.css",
-    "main.js": "/webpage/static/js/main.5e53cd75.chunk.js",
-    "main.js.map": "/webpage/static/js/main.5e53cd75.chunk.js.map",
+    "main.js": "/webpage/static/js/main.bedd6752.chunk.js",
+    "main.js.map": "/webpage/static/js/main.bedd6752.chunk.js.map",
     "runtime-main.js": "/webpage/static/js/runtime-main.a386c48a.js",
     "runtime-main.js.map": "/webpage/static/js/runtime-main.a386c48a.js.map",
     "static/js/2.5b8486bf.chunk.js": "/webpage/static/js/2.5b8486bf.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/FightGIF.e84cc2e9.gif": "/webpage/static/media/FightGIF.e84cc2e9.gif",
     "static/media/SmithGIF.08a03091.gif": "/webpage/static/media/SmithGIF.08a03091.gif",
     "static/media/SwordPicture.fc281c17.png": "/webpage/static/media/SwordPicture.fc281c17.png",
+    "static/media/cheflogo1.4d45064f.jpg": "/webpage/static/media/cheflogo1.4d45064f.jpg",
     "static/media/logo.6ce24c58.svg": "/webpage/static/media/logo.6ce24c58.svg",
     "static/media/logostudioblanc.a53a5830.png": "/webpage/static/media/logostudioblanc.a53a5830.png",
     "static/media/team.3c4742d6.jpg": "/webpage/static/media/team.3c4742d6.jpg"
@@ -24,6 +25,6 @@
     "static/js/runtime-main.a386c48a.js",
     "static/js/2.5b8486bf.chunk.js",
     "static/css/main.3cf9c0c7.chunk.css",
-    "static/js/main.5e53cd75.chunk.js"
+    "static/js/main.bedd6752.chunk.js"
   ]
 }

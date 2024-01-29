@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstudioscrous=self.webpackChunkstudioscrous||[]).push([[865],{865:(e,r,t)=>{t.r(r),t.d(r,{default:()=>l});var s=t(791),u=t(140),o=t(355),a=t(184);function l(e){let{...r}=e;const t=(0,s.useRef)(),{nodes:l,materials:c}=(0,o.L)("/webpage/fourchette.glb");return(0,u.C)(((e,r)=>t.current.rotation.y+=2*r)),(0,a.jsx)("group",{ref:t,...r,dispose:null,children:(0,a.jsx)("mesh",{geometry:l.Cube.geometry,material:c.Material})})}o.L.preload("/webpage/fourchette.glb")}}]);
+//# sourceMappingURL=865.0203b888.chunk.js.map
